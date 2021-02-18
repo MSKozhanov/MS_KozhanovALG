@@ -1,0 +1,50 @@
+﻿  MyForm.cpp
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,30): error C3767: ClassLibrary2::Class1::Fun1: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(425,26): error C3767: ClassLibrary2::Class1::vivod: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426): message : см. объявление "ClassLibrary2::Class1::vivod"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,30): error C3767: ClassLibrary2::Class1::Fun2: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430,1): error C2660: ClassLibrary2::Class1::vivodList: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430): message : см. объявление "ClassLibrary2::Class1::vivodList"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431): message : см. объявление "ClassLibrary2::Class1::vivod"
+  MyForm1.cpp
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,30): error C3767: ClassLibrary2::Class1::Fun1: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(425,26): error C3767: ClassLibrary2::Class1::vivod: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426): message : см. объявление "ClassLibrary2::Class1::vivod"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,30): error C3767: ClassLibrary2::Class1::Fun2: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430,1): error C2660: ClassLibrary2::Class1::vivodList: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430): message : см. объявление "ClassLibrary2::Class1::vivodList"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431): message : см. объявление "ClassLibrary2::Class1::vivod"
+  MyForm1_1.cpp
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(423): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,30): error C3767: ClassLibrary2::Class1::Fun1: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(425,26): error C3767: ClassLibrary2::Class1::vivod: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(426): message : см. объявление "ClassLibrary2::Class1::vivod"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class1::vvodText: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428): message : см. объявление "ClassLibrary2::Class1::vvodText"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,30): error C3767: ClassLibrary2::Class1::Fun2: функции-кандидаты недоступны
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430,1): error C2660: ClassLibrary2::Class1::vivodList: функция не принимает 2 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(430): message : см. объявление "ClassLibrary2::Class1::vivodList"
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class1::vivod: функция не принимает 1 аргументов
+C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431): message : см. объявление "ClassLibrary2::Class1::vivod"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...

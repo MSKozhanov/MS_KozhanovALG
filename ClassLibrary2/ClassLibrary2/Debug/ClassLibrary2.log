@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2123,5): warning MSB3245: Не удалось разрешить данную ссылку. Не удалось обнаружить сборку "ClassLibrary2". Убедитесь, что сборка существует на диске. Если данная ссылка требуется в коде, это может вызвать ошибки компиляции.
+  pch.cpp
+  AssemblyInfo.cpp
+  ClassLibrary2.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ClassLibrary2.vcxproj -> C:\Users\kozha\source\repos\ClassLibrary2\Debug\ClassLibrary2.dll
