@@ -1,6 +1,8 @@
 #pragma once
 #include <math.h>
 #include <memory>
+#include <ClassLibrary2.h>
+#include <Header.h>
 
 
 
@@ -420,15 +422,15 @@ namespace KozhanovMSBFI2002Al {
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
 		double y, v, x1, x2,n, c;
 		
-		ClassLibrary2::Class1::vvodText(x1, textBox1);
-		y = ClassLibrary2::Class1::Fun1(x1);
-		ClassLibrary2::Class1::vivod(y, textBox4);
-		ClassLibrary2::Class1::vivod(y);
-		ClassLibrary2::Class1::vvodText(x2, textBox3);
-		ClassLibrary2::Class1::vvodText(n, textBox2);
-		c = ClassLibrary2::Class1::Fun2(x2, n, listBox1);
-		ClassLibrary2::Class1::vivodList(c, textBox5);
-		ClassLibrary2::Class1::vivod(c);
+		ClassLibrary2::Class11::vvodText(x1, textBox1);
+		y = ClassLibrary2::Class11::Fun1(x1);
+		ClassLibrary2::Class11::vivod(y, textBox4);
+		ClassLibrary2::Class11::vivod(y);
+		ClassLibrary2::Class11::vvodText(x2, textBox3);
+		ClassLibrary2::Class11::vvodText(n, textBox2);
+		c = ClassLibrary2::Class11::Fun2(x2, n, listBox1);
+		ClassLibrary2::Class11::vivodList(c, textBox5);
+		ClassLibrary2::Class11::vivod(c);
 		
 	}
 	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e) {
