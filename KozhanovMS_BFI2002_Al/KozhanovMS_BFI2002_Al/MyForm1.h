@@ -1,11 +1,6 @@
 #pragma once
 #include <math.h>
-#include <memory>
 #include <ClassLibrary2.h>
-#include <Header.h>
-
-
-
 
 namespace KozhanovMSBFI2002Al {
 
@@ -16,18 +11,11 @@ namespace KozhanovMSBFI2002Al {
 	using namespace System::Data;
 	using namespace System::Drawing;
 	using namespace ClassLibrary2;
-	
-	/*double Fun1(double);
-	double Fun2(double, double, ListBox^ listBox1);
-	static double vvodText(TextBox^ t)*/
-	
+
 	/// <summary>
 	/// Сводка для MyForm1
 	/// </summary>
-	
 
-	
-	
 	public ref class MyForm1 : public System::Windows::Forms::Form
 	{
 	public:
@@ -398,38 +386,18 @@ namespace KozhanovMSBFI2002Al {
 		this->Hide();
 
 	}
-    
-	private: System::Void vvod_text(double& x, TextBox^ t)
-	{
-		
-			String^ s = t->Text;
-			x = Convert::ToDouble(s);
-		
-	}
-
-	private: System::Void vivod(double x)
-	{
-		MessageBox::Show(Convert::ToString(x), "Ответ", MessageBoxButtons::OK, MessageBoxIcon::Information);
-	}
-
-	private: System::Void vivod_text(double x, TextBox^ t)
-	{
-		String^ s = Convert::ToString(x);
-		t->Text = s;
-	}
-		   
 
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
 		double y, v, x1, x2,n, c;
 		
 		ClassLibrary2::Class11::vvodText(x1, textBox1);
 		y = ClassLibrary2::Class11::Fun1(x1);
-		ClassLibrary2::Class11::vivod(y, textBox4);
+		ClassLibrary2::Class11::vivod_text(y, textBox4);
 		ClassLibrary2::Class11::vivod(y);
 		ClassLibrary2::Class11::vvodText(x2, textBox3);
 		ClassLibrary2::Class11::vvodText(n, textBox2);
 		c = ClassLibrary2::Class11::Fun2(x2, n, listBox1);
-		ClassLibrary2::Class11::vivodList(c, textBox5);
+		ClassLibrary2::Class11::vivod_text(c, textBox5);
 		ClassLibrary2::Class11::vivod(c);
 		
 	}

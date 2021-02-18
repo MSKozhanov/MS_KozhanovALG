@@ -1,1 +1,1 @@
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\Debug\ClassLibrary2.vcxprojAssemblyReference.cache
+C:\Users\kozha\source\reposOld\ClassLibrary2\ClassLibrary2\Debug\ClassLibrary2.vcxprojAssemblyReference.cache

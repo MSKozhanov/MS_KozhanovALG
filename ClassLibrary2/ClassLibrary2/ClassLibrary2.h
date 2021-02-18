@@ -2,31 +2,39 @@
 #pragma once
 #include <math.h>
 #include <iostream>
+
 using namespace System;
 using namespace System::Windows::Forms;
 
-
-
 namespace ClassLibrary2 {
 
-
+	
 	public class Class11 
 	{
 		// TODO: Добавьте сюда свои методы для этого класса.
+		
 	public:
 
-	    static double Class11::vvodText(TextBox^ t) {
-			return Convert::ToDouble(t->Text);
+	    static void Class11::vvodText(double& x,TextBox^ t) {
+			
+			String^ s = t->Text;
+			x = Convert::ToDouble(s);
 		}
 		
 
-		static void Class11::vivod(double x, TextBox^ t) {
-			t->Text = Convert::ToString(x);
+		static void Class11::vivod(double x) {
+
+			MessageBox::Show(Convert::ToString(x), "Ответ", MessageBoxButtons::OK, MessageBoxIcon::Information);
 		}
 		static void Class11::vivodList(ListBox^ L, int n1, double s1) {
 
 
 			L->Items->Add("При k = " + n1.ToString() + " | " + s1.ToString());
+		}
+		static void Class11::vivod_text(double x, TextBox^ t)
+		{
+			String^ s = Convert::ToString(x);
+			t->Text = s;
 		}
 
 		static double Class11::Fun2(double x2, double n, ListBox^ listBox1) {
@@ -52,17 +60,6 @@ namespace ClassLibrary2 {
 			double y = c * p1 * p2;
 			return y;
 		}
-
-
-
-		
-
-
-
-		
-			
-			
-				
-		
+	
 	};
 }

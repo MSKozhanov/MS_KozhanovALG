@@ -1,41 +1,9 @@
 ﻿  MyForm.cpp
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class11::vivodList: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(22,33): message : см. объявление "ClassLibrary2::Class11::vivodList"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(432,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
+C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
   MyForm1.cpp
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class11::vivodList: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(22,33): message : см. объявление "ClassLibrary2::Class11::vivodList"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(432,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
+C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
   MyForm1_1.cpp
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(424,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(427,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(428,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(429,1): error C2660: ClassLibrary2::Class11::vvodText: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(14,37): message : см. объявление "ClassLibrary2::Class11::vvodText"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(431,1): error C2660: ClassLibrary2::Class11::vivodList: функция не принимает 2 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(22,33): message : см. объявление "ClassLibrary2::Class11::vivodList"
-C:\Users\kozha\source\repos\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(432,1): error C2660: ClassLibrary2::Class11::vivod: функция не принимает 1 аргументов
-C:\Users\kozha\source\repos\ClassLibrary2\ClassLibrary2\ClassLibrary2.h(19,29): message : см. объявление "ClassLibrary2::Class11::vivod"
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
   Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KozhanovMS_BFI2002_Al.vcxproj -> C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.exe
