@@ -83,10 +83,10 @@ namespace KozhanovMSBFI2002Al {
 			// 
 			this->button1->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->button1->Location = System::Drawing::Point(86, 482);
-			this->button1->Margin = System::Windows::Forms::Padding(2);
+			this->button1->Location = System::Drawing::Point(115, 593);
+			this->button1->Margin = System::Windows::Forms::Padding(3, 2, 3, 2);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(239, 32);
+			this->button1->Size = System::Drawing::Size(319, 39);
 			this->button1->TabIndex = 0;
 			this->button1->Text = L"Лабораторная работа №1";
 			this->button1->UseVisualStyleBackColor = true;
@@ -97,9 +97,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label1->AutoSize = true;
 			this->label1->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label1->Location = System::Drawing::Point(715, 39);
+			this->label1->Location = System::Drawing::Point(953, 48);
+			this->label1->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(247, 21);
+			this->label1->Size = System::Drawing::Size(312, 27);
 			this->label1->TabIndex = 1;
 			this->label1->Text = L"Федеральное агентство связи";
 			// 
@@ -108,9 +109,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label2->AutoSize = true;
 			this->label2->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label2->Location = System::Drawing::Point(576, 60);
+			this->label2->Location = System::Drawing::Point(768, 74);
+			this->label2->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(519, 21);
+			this->label2->Size = System::Drawing::Size(652, 27);
 			this->label2->TabIndex = 2;
 			this->label2->Text = L"Ордена Трудового Красного Знамени федеральное бюджетное";
 			// 
@@ -119,9 +121,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label3->AutoSize = true;
 			this->label3->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label3->Location = System::Drawing::Point(636, 81);
+			this->label3->Location = System::Drawing::Point(848, 100);
+			this->label3->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label3->Name = L"label3";
-			this->label3->Size = System::Drawing::Size(429, 21);
+			this->label3->Size = System::Drawing::Size(538, 27);
 			this->label3->TabIndex = 3;
 			this->label3->Text = L"образовательное учреждение высшего образования";
 			// 
@@ -130,9 +133,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label4->AutoSize = true;
 			this->label4->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label4->Location = System::Drawing::Point(590, 102);
+			this->label4->Location = System::Drawing::Point(787, 126);
+			this->label4->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label4->Name = L"label4";
-			this->label4->Size = System::Drawing::Size(515, 21);
+			this->label4->Size = System::Drawing::Size(655, 27);
 			this->label4->TabIndex = 4;
 			this->label4->Text = L"\"Московский технический университет связи и информатики\"";
 			// 
@@ -141,9 +145,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label5->AutoSize = true;
 			this->label5->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label5->Location = System::Drawing::Point(737, 212);
+			this->label5->Location = System::Drawing::Point(983, 261);
+			this->label5->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label5->Name = L"label5";
-			this->label5->Size = System::Drawing::Size(194, 21);
+			this->label5->Size = System::Drawing::Size(248, 27);
 			this->label5->TabIndex = 5;
 			this->label5->Text = L"Кафедра Информатика";
 			// 
@@ -152,9 +157,10 @@ namespace KozhanovMSBFI2002Al {
 			this->label6->AutoSize = true;
 			this->label6->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label6->Location = System::Drawing::Point(496, 332);
+			this->label6->Location = System::Drawing::Point(661, 409);
+			this->label6->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label6->Name = L"label6";
-			this->label6->Size = System::Drawing::Size(645, 21);
+			this->label6->Size = System::Drawing::Size(811, 27);
 			this->label6->TabIndex = 6;
 			this->label6->Text = L"Лабораторные работы по дисциплине \"Алгоритмы и алгоритмические языки\"";
 			// 
@@ -163,10 +169,9 @@ namespace KozhanovMSBFI2002Al {
 			this->label12->AutoSize = true;
 			this->label12->Font = (gcnew System::Drawing::Font(L"Times New Roman", 13.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label12->Location = System::Drawing::Point(680, 743);
-			this->label12->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
+			this->label12->Location = System::Drawing::Point(907, 914);
 			this->label12->Name = L"label12";
-			this->label12->Size = System::Drawing::Size(112, 21);
+			this->label12->Size = System::Drawing::Size(144, 27);
 			this->label12->TabIndex = 12;
 			this->label12->Text = L"Москва 2021";
 			// 
@@ -175,10 +180,9 @@ namespace KozhanovMSBFI2002Al {
 			this->label13->AutoSize = true;
 			this->label13->Font = (gcnew System::Drawing::Font(L"Times New Roman", 13.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->label13->Location = System::Drawing::Point(1004, 450);
-			this->label13->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
+			this->label13->Location = System::Drawing::Point(1339, 554);
 			this->label13->Name = L"label13";
-			this->label13->Size = System::Drawing::Size(316, 84);
+			this->label13->Size = System::Drawing::Size(387, 108);
 			this->label13->TabIndex = 13;
 			this->label13->Text = L"Выполнил студент группы БФИ2002\r\n                                      Кожанов М."
 				L"С.\r\n              Проверил доц. Гуриков С.Р.\r\n                                  "
@@ -190,9 +194,10 @@ namespace KozhanovMSBFI2002Al {
 			this->button2->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
 			this->button2->ForeColor = System::Drawing::Color::White;
-			this->button2->Location = System::Drawing::Point(697, 767);
+			this->button2->Location = System::Drawing::Point(929, 944);
+			this->button2->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button2->Name = L"button2";
-			this->button2->Size = System::Drawing::Size(75, 29);
+			this->button2->Size = System::Drawing::Size(100, 36);
 			this->button2->TabIndex = 14;
 			this->button2->Text = L"Выход";
 			this->button2->UseVisualStyleBackColor = false;
@@ -200,9 +205,9 @@ namespace KozhanovMSBFI2002Al {
 			// 
 			// MyForm
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1924, 1061);
+			this->ClientSize = System::Drawing::Size(1924, 1055);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->label13);
 			this->Controls->Add(this->label12);
@@ -213,7 +218,7 @@ namespace KozhanovMSBFI2002Al {
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->button1);
-			this->Margin = System::Windows::Forms::Padding(2);
+			this->Margin = System::Windows::Forms::Padding(3, 2, 3, 2);
 			this->Name = L"MyForm";
 			this->Text = L"MyForm";
 			this->WindowState = System::Windows::Forms::FormWindowState::Maximized;

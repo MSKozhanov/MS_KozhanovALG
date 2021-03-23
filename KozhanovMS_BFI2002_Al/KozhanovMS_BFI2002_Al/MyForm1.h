@@ -399,7 +399,7 @@ namespace KozhanovMSBFI2002Al {
 		c = ClassLibrary2::Class11::Fun2(x2, n, listBox1);
 		ClassLibrary2::Class11::vivod_text(c, textBox5);
 		ClassLibrary2::Class11::vivod(c);
-		
+		                                                                                                           
 	}
 	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e) {
 	System::Windows::Forms::DialogResult k = MessageBox::Show("Вы уверены, что хотите выйти из программы?", "Выход", MessageBoxButtons::YesNo);

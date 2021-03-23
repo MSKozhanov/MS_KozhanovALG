@@ -1,9 +1,2 @@
-﻿  MyForm.cpp
-C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
-  MyForm1.cpp
-C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
-  MyForm1_1.cpp
-C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\MyForm1.h(392,13): warning C4101: v: неиспользованная локальная переменная
-  Создание кода...
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+﻿  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   KozhanovMS_BFI2002_Al.vcxproj -> C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.exe
