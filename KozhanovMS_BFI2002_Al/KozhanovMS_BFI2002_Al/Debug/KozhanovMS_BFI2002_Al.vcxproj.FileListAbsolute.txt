@@ -9,3 +9,5 @@ C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug
 C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.vcxproj.GenerateResource.cache
 C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.vcxproj.CopyComplete
 C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.vcxprojAssemblyReference.cache
+C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug\KozhanovMSBFI2002Al.MyForm2.resources
+C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\KozhanovMS_BFI2002_Al\Debug\KozhanovMSBFI2002Al.MyForm3.resources

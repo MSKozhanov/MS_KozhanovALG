@@ -131,7 +131,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label1->Location = System::Drawing::Point(152, 79);
 			this->label1->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(917, 63);
+			this->label1->Size = System::Drawing::Size(1159, 81);
 			this->label1->TabIndex = 1;
 			this->label1->Text = L"Задание: \r\n1 часть Написать программу для расчета арифметического выражения (1)\r\n"
 				L"2 часть Использовать цикл с известным колличеством повторений для расчета арифме"
@@ -156,7 +156,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label2->Location = System::Drawing::Point(214, 325);
 			this->label2->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(222, 21);
+			this->label2->Size = System::Drawing::Size(284, 27);
 			this->label2->TabIndex = 3;
 			this->label2->Text = L"Ответ при Х = 0,5: 0,23546";
 			// 
@@ -165,7 +165,7 @@ namespace KozhanovMSBFI2002Al {
 			this->textBox1->Location = System::Drawing::Point(120, 398);
 			this->textBox1->Margin = System::Windows::Forms::Padding(5);
 			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(164, 29);
+			this->textBox1->Size = System::Drawing::Size(164, 35);
 			this->textBox1->TabIndex = 4;
 			// 
 			// label3
@@ -176,7 +176,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label3->Location = System::Drawing::Point(162, 372);
 			this->label3->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label3->Name = L"label3";
-			this->label3->Size = System::Drawing::Size(93, 21);
+			this->label3->Size = System::Drawing::Size(120, 27);
 			this->label3->TabIndex = 5;
 			this->label3->Text = L"Введите x:";
 			// 
@@ -188,7 +188,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label4->Location = System::Drawing::Point(548, 229);
 			this->label4->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label4->Name = L"label4";
-			this->label4->Size = System::Drawing::Size(31, 21);
+			this->label4->Size = System::Drawing::Size(40, 27);
 			this->label4->TabIndex = 7;
 			this->label4->Text = L"(1)";
 			// 
@@ -211,7 +211,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label5->Location = System::Drawing::Point(1228, 229);
 			this->label5->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label5->Name = L"label5";
-			this->label5->Size = System::Drawing::Size(31, 21);
+			this->label5->Size = System::Drawing::Size(40, 27);
 			this->label5->TabIndex = 9;
 			this->label5->Text = L"(2)";
 			// 
@@ -220,7 +220,7 @@ namespace KozhanovMSBFI2002Al {
 			this->textBox2->Location = System::Drawing::Point(937, 398);
 			this->textBox2->Margin = System::Windows::Forms::Padding(5);
 			this->textBox2->Name = L"textBox2";
-			this->textBox2->Size = System::Drawing::Size(164, 29);
+			this->textBox2->Size = System::Drawing::Size(164, 35);
 			this->textBox2->TabIndex = 10;
 			// 
 			// label6
@@ -231,7 +231,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label6->Location = System::Drawing::Point(972, 372);
 			this->label6->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label6->Name = L"label6";
-			this->label6->Size = System::Drawing::Size(97, 21);
+			this->label6->Size = System::Drawing::Size(125, 27);
 			this->label6->TabIndex = 11;
 			this->label6->Text = L"Введите N:";
 			// 
@@ -243,7 +243,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label7->Location = System::Drawing::Point(976, 443);
 			this->label7->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label7->Name = L"label7";
-			this->label7->Size = System::Drawing::Size(93, 21);
+			this->label7->Size = System::Drawing::Size(120, 27);
 			this->label7->TabIndex = 13;
 			this->label7->Text = L"Введите x:";
 			// 
@@ -252,7 +252,7 @@ namespace KozhanovMSBFI2002Al {
 			this->textBox3->Location = System::Drawing::Point(937, 469);
 			this->textBox3->Margin = System::Windows::Forms::Padding(5);
 			this->textBox3->Name = L"textBox3";
-			this->textBox3->Size = System::Drawing::Size(164, 29);
+			this->textBox3->Size = System::Drawing::Size(164, 35);
 			this->textBox3->TabIndex = 14;
 			// 
 			// label8
@@ -262,7 +262,7 @@ namespace KozhanovMSBFI2002Al {
 				static_cast<System::Byte>(204)));
 			this->label8->Location = System::Drawing::Point(962, 325);
 			this->label8->Name = L"label8";
-			this->label8->Size = System::Drawing::Size(120, 21);
+			this->label8->Size = System::Drawing::Size(153, 27);
 			this->label8->TabIndex = 15;
 			this->label8->Text = L"N = 20  x= 0,5";
 			// 
@@ -284,7 +284,7 @@ namespace KozhanovMSBFI2002Al {
 			this->textBox4->Location = System::Drawing::Point(120, 469);
 			this->textBox4->Margin = System::Windows::Forms::Padding(5);
 			this->textBox4->Name = L"textBox4";
-			this->textBox4->Size = System::Drawing::Size(164, 29);
+			this->textBox4->Size = System::Drawing::Size(164, 35);
 			this->textBox4->TabIndex = 17;
 			// 
 			// textBox5
@@ -292,7 +292,7 @@ namespace KozhanovMSBFI2002Al {
 			this->textBox5->Location = System::Drawing::Point(937, 553);
 			this->textBox5->Margin = System::Windows::Forms::Padding(5);
 			this->textBox5->Name = L"textBox5";
-			this->textBox5->Size = System::Drawing::Size(164, 29);
+			this->textBox5->Size = System::Drawing::Size(164, 35);
 			this->textBox5->TabIndex = 18;
 			// 
 			// button3
@@ -316,7 +316,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label9->Location = System::Drawing::Point(171, 443);
 			this->label9->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label9->Name = L"label9";
-			this->label9->Size = System::Drawing::Size(61, 21);
+			this->label9->Size = System::Drawing::Size(77, 27);
 			this->label9->TabIndex = 20;
 			this->label9->Text = L"Ответ:";
 			// 
@@ -326,24 +326,24 @@ namespace KozhanovMSBFI2002Al {
 			this->label10->Location = System::Drawing::Point(986, 517);
 			this->label10->Margin = System::Windows::Forms::Padding(5, 0, 5, 0);
 			this->label10->Name = L"label10";
-			this->label10->Size = System::Drawing::Size(57, 21);
+			this->label10->Size = System::Drawing::Size(71, 27);
 			this->label10->TabIndex = 21;
 			this->label10->Text = L"Ответ";
 			// 
 			// listBox1
 			// 
 			this->listBox1->FormattingEnabled = true;
-			this->listBox1->ItemHeight = 21;
-			this->listBox1->Location = System::Drawing::Point(1292, 186);
+			this->listBox1->ItemHeight = 27;
+			this->listBox1->Location = System::Drawing::Point(1319, 136);
 			this->listBox1->Name = L"listBox1";
-			this->listBox1->Size = System::Drawing::Size(212, 466);
+			this->listBox1->Size = System::Drawing::Size(212, 463);
 			this->listBox1->TabIndex = 22;
 			// 
 			// MyForm1
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(10, 21);
+			this->AutoScaleDimensions = System::Drawing::SizeF(13, 27);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1924, 1061);
+			this->ClientSize = System::Drawing::Size(1924, 1055);
 			this->Controls->Add(this->listBox1);
 			this->Controls->Add(this->label10);
 			this->Controls->Add(this->label9);
@@ -388,7 +388,7 @@ namespace KozhanovMSBFI2002Al {
 	}
 
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
-		double y, v, x1, x2,n, c;
+		double y, x1, x2,n, c;
 		
 		ClassLibrary2::Class11::vvodText(x1, textBox1);
 		y = ClassLibrary2::Class11::Fun1(x1);

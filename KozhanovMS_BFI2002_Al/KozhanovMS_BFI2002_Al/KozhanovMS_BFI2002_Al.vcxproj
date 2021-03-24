@@ -78,13 +78,13 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WIN32;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>..\..\ClassLibrary2\ClassLibrary2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\ClassLibrary3\ClassLibrary3;..\..\ClassLibrary2\ClassLibrary2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
       <SubSystem>Windows</SubSystem>
       <EntryPointSymbol>Main</EntryPointSymbol>
-      <AdditionalLibraryDirectories>C:\Users\kozha\source\repos\ClassLibrary2\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\kozha\source\repos\ClassLibrary3\Debug;C:\Users\kozha\source\repos\ClassLibrary2\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -100,13 +100,13 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>WIN32;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>..\..\ClassLibrary2\ClassLibrary2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\ClassLibrary3\ClassLibrary3;..\..\ClassLibrary2\ClassLibrary2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies />
       <SubSystem>Windows</SubSystem>
       <EntryPointSymbol>Main</EntryPointSymbol>
-      <AdditionalLibraryDirectories>C:\Users\kozha\source\repos\ClassLibrary2\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\kozha\source\repos\ClassLibrary3\Debug;C:\Users\kozha\source\repos\ClassLibrary2\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -122,6 +122,10 @@
     <Reference Include="ClassLibrary2">
       <HintPath>..\..\ClassLibrary2\Debug\ClassLibrary2.dll</HintPath>
     </Reference>
+    <Reference Include="ClassLibrary3">
+      <HintPath>..\..\ClassLibrary3\Debug\ClassLibrary3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -132,8 +136,12 @@
     <ClCompile Include="MyForm.cpp" />
     <ClCompile Include="MyForm1.cpp" />
     <ClCompile Include="MyForm1_1.cpp" />
+    <ClCompile Include="MyForm2.cpp" />
+    <ClCompile Include="MyForm3.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.h" />
     <ClInclude Include="MyForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
@@ -141,6 +149,12 @@
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="MyForm1_1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="MyForm3.h">
       <FileType>CppForm</FileType>
     </ClInclude>
   </ItemGroup>
@@ -153,6 +167,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MyForm1_1.resx">
       <DependentUpon>MyForm1_1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm2.resx">
+      <DependentUpon>MyForm2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm3.resx">
+      <DependentUpon>MyForm3.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

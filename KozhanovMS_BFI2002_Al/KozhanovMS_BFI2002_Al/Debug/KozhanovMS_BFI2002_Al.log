@@ -1,2 +1,9 @@
-﻿  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+﻿  MyForm.cpp
+C:\Users\kozha\source\reposOld\ClassLibrary3\ClassLibrary3\ClassLibrary3.h(16,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm2.cpp
+C:\Users\kozha\source\reposOld\ClassLibrary3\ClassLibrary3\ClassLibrary3.h(16,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+C:\Users\kozha\source\reposOld\ClassLibrary3\ClassLibrary3\ClassLibrary3.h(16,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   KozhanovMS_BFI2002_Al.vcxproj -> C:\Users\kozha\source\reposOld\KozhanovMS_BFI2002_Al\Debug\KozhanovMS_BFI2002_Al.exe

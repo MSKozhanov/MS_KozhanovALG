@@ -1,5 +1,6 @@
 #pragma once
 #include "MyForm1_1.h"
+#include "MyForm2.h"
 
 namespace KozhanovMSBFI2002Al {
 
@@ -52,6 +53,7 @@ namespace KozhanovMSBFI2002Al {
 	private: System::Windows::Forms::Label^ label12;
 	private: System::Windows::Forms::Label^ label13;
 	private: System::Windows::Forms::Button^ button2;
+	private: System::Windows::Forms::Button^ button3;
 	protected:
 
 	private:
@@ -77,6 +79,7 @@ namespace KozhanovMSBFI2002Al {
 			this->label12 = (gcnew System::Windows::Forms::Label());
 			this->label13 = (gcnew System::Windows::Forms::Label());
 			this->button2 = (gcnew System::Windows::Forms::Button());
+			this->button3 = (gcnew System::Windows::Forms::Button());
 			this->SuspendLayout();
 			// 
 			// button1
@@ -195,7 +198,7 @@ namespace KozhanovMSBFI2002Al {
 				static_cast<System::Byte>(204)));
 			this->button2->ForeColor = System::Drawing::Color::White;
 			this->button2->Location = System::Drawing::Point(929, 944);
-			this->button2->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
+			this->button2->Margin = System::Windows::Forms::Padding(4);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(100, 36);
 			this->button2->TabIndex = 14;
@@ -203,11 +206,25 @@ namespace KozhanovMSBFI2002Al {
 			this->button2->UseVisualStyleBackColor = false;
 			this->button2->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
 			// 
+			// button3
+			// 
+			this->button3->Font = (gcnew System::Drawing::Font(L"Times New Roman", 14.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(204)));
+			this->button3->Location = System::Drawing::Point(115, 667);
+			this->button3->Margin = System::Windows::Forms::Padding(3, 2, 3, 2);
+			this->button3->Name = L"button3";
+			this->button3->Size = System::Drawing::Size(319, 39);
+			this->button3->TabIndex = 15;
+			this->button3->Text = L"Лабораторная работа №5";
+			this->button3->UseVisualStyleBackColor = true;
+			this->button3->Click += gcnew System::EventHandler(this, &MyForm::button3_Click);
+			// 
 			// MyForm
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(1924, 1055);
+			this->Controls->Add(this->button3);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->label13);
 			this->Controls->Add(this->label12);
@@ -237,6 +254,11 @@ namespace KozhanovMSBFI2002Al {
 		System::Windows::Forms::DialogResult k = MessageBox::Show("Вы уверены, что хотите выйти из программы?", "Выход", MessageBoxButtons::YesNo);
 		if (k == System::Windows::Forms::DialogResult::Yes)
 			Application::Exit();
+	}
+	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e) {
+		MyForm2^ f_2 = gcnew MyForm2(this);
+		f_2->Show();
+		this->Hide();
 	}
 };
 }
